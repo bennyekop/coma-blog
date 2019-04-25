@@ -2,7 +2,7 @@
 title: About
 ---
 
-This site is built with GatsbyJS [ComaBlog](https://github.com/bennyekop/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) boiler.
+This site is built with GatsbyJS [ComaBlog](https://github.com/bennyekop/coma-blog), a [GatsbyJS](https://www.gatsbyjs.org/) boiler theme.
 
 ### Features:
 
